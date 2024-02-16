@@ -1,0 +1,476 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 545px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 17px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 528px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 20px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.5rem;
+  margin: 0 10px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  padding-left: 0;
+  font-family: yekanbakh-regular4;
+  margin: -21px 179px 0 53px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 10px auto 0 3px;
+  padding: 10px 169px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 517px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 18px 25px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  margin: 0 5px;
+  padding: 10px 167px 10px 166px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 22px auto 0 5px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 700;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 435px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 129px;
+    margin-left: 3px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 426px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 373px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 22px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 480px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 339px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    order: 1;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding-left: 74px;
+    padding-right: 74px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    order: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    padding-left: 79px;
+    padding-right: 79px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 10px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 21px -16px 23px auto;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 476px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  margin: 4px 36px 0 72px;
+}
+
+.u-section-2 .u-accordion-1 {
+  margin: 140px 0 0 auto;
+}
+
+.u-section-2 .u-accordion-item-1 {
+  margin-top: -133px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-1 {
+  background-image: none;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  letter-spacing: 0px;
+  padding: 15px 25px;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 17px;
+  width: 17px;
+  color: rgb(128, 128, 128);
+  background-image: none;
+  --radius: 35px;
+  padding: 2px;
+}
+
+.u-section-2 .u-accordion-pane-1 {
+  min-height: 124px;
+  background-image: none;
+  height: auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 20px 30px;
+}
+
+.u-section-2 .u-text-2 {
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-item-2 {
+  margin-top: -11px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-2 {
+  background-image: none;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  letter-spacing: 0px;
+  padding: 15px 25px;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 17px;
+  width: 17px;
+  color: rgb(128, 128, 128);
+  background-image: none;
+  --radius: 35px;
+  padding: 2px;
+}
+
+.u-section-2 .u-accordion-pane-2 {
+  min-height: 124px;
+  background-image: none;
+  height: auto;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 20px 30px 16px;
+}
+
+.u-section-2 .u-text-3 {
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-item-3 {
+  margin-top: -21px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-accordion-link-3 {
+  background-image: none;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  letter-spacing: 0px;
+  padding: 15px 25px;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 17px;
+  width: 17px;
+  color: rgb(128, 128, 128);
+  background-image: none;
+  --radius: 35px;
+  padding: 2px;
+}
+
+.u-section-2 .u-accordion-pane-3 {
+  min-height: 124px;
+  background-image: none;
+  height: auto;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 20px 30px 16px;
+}
+
+.u-section-2 .u-text-4 {
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 476px;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 15px 0;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  margin: 0;
+}
+
+.u-section-2 .u-text-6 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 476px;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 9px 30px;
+}
+
+.u-section-2 .u-text-7 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  font-family: yekanbakh06bold1;
+  margin: 6px 0 0 48px;
+}
+
+.u-section-2 .u-text-8 {
+  padding-left: 0;
+  font-family: yekanbakh06bold1;
+  margin: 20px auto 0 48px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+    width: 940px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 3px;
+    margin-left: 39px;
+  }
+
+  .u-section-2 .u-accordion-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 392px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-8 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 373px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1258px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 836px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'yekanbakh-regular4';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/yekanbakh-regular4.woff);
+}@font-face {
+  font-family: 'yekanbakh06bold1';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/yekanbakh06bold1.woff);
+}@font-face {
+  font-family: 'IRANSansWeb';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/IRANSansWeb.ttf);
+}
