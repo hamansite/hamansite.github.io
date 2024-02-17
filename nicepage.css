@@ -43563,55 +43563,35 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 22px 343px 0 auto;
+  margin: 22px 343px 22px auto;
 }
 
 .u-header .u-nav-1 {
   font-family: IRANSansWeb;
   font-size: 1rem;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
 }
-
-.u-header .u-custom-php-1 {
-  min-height: 106px;
-  height: auto;
-  margin: -71px 911px -12px -36px;
-}
 @media (max-width: 1199px) {
-  .u-header .u-custom-php-1 {
-    margin-top: -71px;
-    margin-right: 811px;
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-menu-1 {
     margin-right: 263px;
   }
-
-  .u-header .u-custom-php-1 {
-    margin-right: 701px;
-  }
 }
 @media (max-width: 767px) {
   .u-header .u-menu-1 {
     margin-right: 197px;
   }
-
-  .u-header .u-custom-php-1 {
-    margin-right: 611px;
-  }
 }
 @media (max-width: 575px) {
   .u-header .u-menu-1 {
     margin-right: 124px;
-  }
-
-  .u-header .u-custom-php-1 {
-    margin-right: 511px;
   }
 }
 .u-footer .u-sheet-1 {
@@ -43619,7 +43599,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-layout-wrap-1 {
-  margin-top: 60px;
+  margin-top: 64px;
   margin-bottom: 60px;
 }
 
@@ -43634,11 +43614,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-social-icons-1 {
   white-space: nowrap;
-  height: 98px;
+  height: 79px;
   min-height: 16px;
-  width: 98px;
+  width: 79px;
   min-width: 16px;
-  margin: 0 33px 0 auto;
+  margin: 0 33px 0 443px;
 }
 
 .u-footer .u-icon-1 {
@@ -43705,6 +43685,11 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 305px;
   }
 
+  .u-footer .u-layout-wrap-1 {
+    margin-top: 170px;
+    margin-bottom: -1px;
+  }
+
   .u-footer .u-layout-cell-1 {
     min-height: 253px;
   }
@@ -43715,8 +43700,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    height: 98px;
-    width: 98px;
+    height: 79px;
+    width: 79px;
+    margin-right: 0;
+    margin-left: 376px;
   }
 
   .u-footer .u-layout-cell-2 {
@@ -43743,12 +43730,25 @@ a.u-link.u-text-hover-grey-90:hover {
     padding-right: 0;
   }
 
+  .u-footer .u-social-icons-1 {
+    margin-left: 266px;
+  }
+
   .u-footer .u-layout-cell-2 {
     min-height: 100px;
   }
 }
-
-
+@media (max-width: 767px) {
+  .u-footer .u-layout-wrap-1 {
+    margin-top: -88px;
+    margin-bottom: -267px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-social-icons-1 {
+    margin-left: 261px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
