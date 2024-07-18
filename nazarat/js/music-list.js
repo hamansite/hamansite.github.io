@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: "ناز شستم",
-    artist: "Armin 2AFM",
+    name: " من یکساله ",
+    artist: "جهت خرید به پی وی خانم مقدم مراجعه کنید ",
     img: "music-1",
     src: "music-1"
   },
