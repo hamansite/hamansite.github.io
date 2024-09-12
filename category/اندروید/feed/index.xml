@@ -12,13 +12,13 @@
 	<atom:link href="/category/%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>هامان سرور. &#124; سایت هامان سرور خانم مقدم</description>
-	<lastBuildDate>Mon, 27 May 2024 07:18:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Sep 2024 03:08:11 +0000</lastBuildDate>
 	<language>fa-IR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-haman-32x32.png</url>
@@ -38,11 +38,11 @@
 
 					<description><![CDATA[سلام به همه دوستان عزیز هامانی &#8211; در این صفحه اموزش برنامه v2box را باهم پیش خواهیم رفت. دقت کنید که  برنامه وی تو باکس هم نسخه اندروید دارد هم نسخه آیفون و مک بوک پس لطفا نسبت به سیستم عامل خود برنامه را از لینک های زیر دانلود کنید و سپس ویدیو اموزشی را [...]]]></description>
 										<content:encoded><![CDATA[<p>سلام به همه دوستان عزیز هامانی &#8211; در این صفحه اموزش برنامه v2box را باهم پیش خواهیم رفت. دقت کنید که  برنامه وی تو باکس هم نسخه اندروید دارد هم نسخه آیفون و مک بوک پس لطفا نسبت به سیستم عامل خود برنامه را از لینک های زیر دانلود کنید و سپس ویدیو اموزشی را مشاهده کنید.</p>
-<h2 style="text-align: center;"><a href="https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690">برای دانلود نسخه آیفون و مک بوک (کلیک کنید)</a></h2>
+<h2 style="text-align: center;"><a href="https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690" target="_blank" rel="noopener">برای دانلود نسخه آیفون و مک بوک (کلیک کنید)</a></h2>
 <p>——-</p>
-<h2 style="text-align: center;"><a href="/academy/v2box1.apk"><strong> دانلود نسخه اندروید 1 (به صورت لینک مستقیم کلیک کنید)</strong></a></h2>
-<h2 style="text-align: center;"><a href="/academy/v2box2.apk"><strong> دانلود نسخه اندروید 2  (به صورت لینک مستقیم کلیک کنید)</strong></a></h2>
-<h2 style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box"><strong> دانلود نسخه اندروید (دانلود  مستقیم از گوگل پلی کلیک کنید)</strong></a></h2>
+<h2 style="text-align: center;"><a href="https://hamansite.github.io/academy/v2box1.apk" target="_blank" rel="noopener"><strong> دانلود نسخه اندروید 1 (به صورت لینک مستقیم کلیک کنید)</strong></a></h2>
+<h2 style="text-align: center;"><a href="https://hamansite.github.io/academy/v2box2.apk" target="_blank" rel="noopener"><strong> دانلود نسخه اندروید 2  (به صورت لینک مستقیم کلیک کنید)</strong></a></h2>
+<h2 style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box" target="_blank" rel="noopener"><strong> دانلود نسخه اندروید (دانلود  مستقیم از <span style="color: #ff0000;">گوگل پلی</span> کلیک کنید)</strong></a></h2>
 <p><strong>دو لینک مختلف برای گوشی های اندرویدی قرار گرفته است اگر نسخه اندروید<span style="background-color: #99cc00;"> 1</span> نصب نشد از<span style="background-color: #99cc00;"> 2</span> استفاده کنید.</strong></p>
 <p style="text-align: center;"><span style="color: #ff0000;">[ بعداز خرید<strong> یک لینک اشتراک</strong> در اختیار شما قرار گرفته شده است آن را در کلیپ بورد خود کپی کنید. سپس طبق ویدیو زیر یپش بروید ]</span></p>
 <h2></h2>
@@ -50,14 +50,14 @@
 <h2>ویدیو اموزشی</h2>
 <p style="text-align: center;">
     <div>        
-    <video id="plyr66893b78f25ae" controls>
-       <source src="/wp-content/uploads/2024/02/V2box.mp4" type="video/mp4" />
+    <video id="plyr66e3146a0fab4" controls>
+       <source src="https://hamansite.github.io/wp-content/uploads/2024/02/V2box.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b78f25ae = new Plyr(document.getElementById('plyr66893b78f25ae'));
-        evplayerplyr66893b78f25ae.ratio = '16:9';
-        evplayerplyr66893b78f25ae.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b78f25ae.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e3146a0fab4 = new Plyr(document.getElementById('plyr66e3146a0fab4'));
+        evplayerplyr66e3146a0fab4.ratio = '16:9';
+        evplayerplyr66e3146a0fab4.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e3146a0fab4.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -108,7 +108,7 @@
 ]]></content:encoded>
 					
 		
-		<enclosure url="/wp-content/uploads/2024/02/V2box.mp4" length="9421721" type="video/mp4" />
+		<enclosure url="https://hamansite.github.io/wp-content/uploads/2024/02/V2box.mp4" length="9421721" type="video/mp4" />
 
 			</item>
 		<item>
@@ -128,8 +128,8 @@
 <h3 class="box-downl" style="text-align: right;"><span style="color: #ff0000;"><strong>اگر وصل نشدی نکات مهم پایین صفحه را با دقت بخوانید (زیر ویدیو )‌</strong></span></h3>
 <p>بریم برای شروع و نصب</p>
 <p><strong>ابتدا نرم افزار NapsternetV را از لینک زیر دانلود و نصب کنید</strong></p>
-<h3 style="text-align: center;"><a href="https://ha-man.space/base.apk">لینک دانلود مستقیم برنامه نپسرنت</a></h3>
-<p style="text-align: center;"><a href="https://ha-man.space/am/nap2.apk">لینک دانلود کمکی برای افرادی که مشکل نصب دارند</a></p>
+<h3 style="text-align: center;"><a href="https://ha-man.space/base.apk" target="_blank" rel="noopener">لینک دانلود مستقیم برنامه نپسرنت</a></h3>
+<p style="text-align: center;"><a href="https://ha-man.space/am/nap2.apk" target="_blank" rel="noopener">لینک دانلود کمکی برای افرادی که مشکل نصب دارند</a></p>
 <p>&nbsp;</p>
 <p>( اگر بعداز دانلود خطا در حین نصب نمایش داده شد &gt; از لینک های بعدی استفاده کنید )‌</p>
 <p style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=fa&amp;gl=US" target="_blank" rel="noreferrer noopener"><strong>لینک دانلود از گوگل پلی</strong></a></p>
@@ -139,14 +139,14 @@
 <p>نکته مهم : در بعضی از گوشی های اندروید (در بخش هاست یا همان ssh  هاست) ؛ زمانی که ادرس را تایپ می کنید کیبورد به صورت خودکار فاصله بین کلمات می اندازد. که شما باید آن را پاک کنید. در صورت داشته فاصله بین کلمات ادرس  ssh host    اتصال شما برقرار نمی شود.</p>
 <pre class="wp-block-preformatted">
     <div>        
-    <video id="plyr66893b78f355b" controls>
+    <video id="plyr66e3146a108d2" controls>
        <source src="https://ha-man.space//am/ham-naps-safrl.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b78f355b = new Plyr(document.getElementById('plyr66893b78f355b'));
-        evplayerplyr66893b78f355b.ratio = '16:9';
-        evplayerplyr66893b78f355b.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b78f355b.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e3146a108d2 = new Plyr(document.getElementById('plyr66e3146a108d2'));
+        evplayerplyr66e3146a108d2.ratio = '16:9';
+        evplayerplyr66e3146a108d2.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e3146a108d2.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <span style="font-size: 14.4px;">=</span><strong style="color: #ff0000; font-size: 20.16px; font-family: Tahoma, 'Times New Roman', 'Bitstream Charter', Times, serif;">اطلاعاتی که بعداز خرید به شما نمایش داده شده را باید در فیلد های زیر پر کنید .( دقیقا همان اطلاعات را )</strong>
 </pre>

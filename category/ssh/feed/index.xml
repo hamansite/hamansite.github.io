@@ -12,13 +12,13 @@
 	<atom:link href="/category/ssh/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>هامان سرور. &#124; سایت هامان سرور خانم مقدم</description>
-	<lastBuildDate>Fri, 31 May 2024 08:04:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Sep 2024 03:28:09 +0000</lastBuildDate>
 	<language>fa-IR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-haman-32x32.png</url>
@@ -42,17 +42,17 @@
 <p>بریم برای شروع و نصب</p>
 <p><strong>ابتدا نرم افزار streisand را از لینک زیر دانلود و نصب کنید</strong></p>
 <p>&nbsp;</p>
-<h2 style="text-align: center;"><a href="https://apps.apple.com/us/app/streisand/id6450534064">جهت دانلود مستقیم برنامه کلیک کنید(از اپ استور)</a></h2>
+<h2 style="text-align: center;"><a href="https://apps.apple.com/us/app/streisand/id6450534064" target="_blank" rel="noopener">جهت دانلود مستقیم برنامه کلیک کنید(از اپ استور)</a></h2>
 
     <div>        
-    <video id="plyr66893b791afeb" controls>
+    <video id="plyr66e31469d63be" controls>
        <source src="https://github.com/hamansite/hamansite.github.io/raw/main/app/video/strisand.MP4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791afeb = new Plyr(document.getElementById('plyr66893b791afeb'));
-        evplayerplyr66893b791afeb.ratio = '16:9';
-        evplayerplyr66893b791afeb.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791afeb.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d63be = new Plyr(document.getElementById('plyr66e31469d63be'));
+        evplayerplyr66e31469d63be.ratio = '16:9';
+        evplayerplyr66e31469d63be.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d63be.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <p>&nbsp;</p>
 <h3 class="box-down2" style="text-align: right;">نکات مهم :<br />
@@ -86,23 +86,23 @@
 
 					<description><![CDATA[ابتدا نرم افزار رو دانلود کنید سپس نصب کنید و بعد طبق اطلاعاتی که خریداری کرده اید اطلاعات رو وارد نرم افزار کنید دانلود نت مود(لینک دانلود یک) دانلود نت مود(لینک دوم) دانلود نت مود (لینک سوم ) لینک مستقیم از سایت ایرانی یکی از سه لینک بالا را امتحان کنید و برنامه را دانلود کنید [...]]]></description>
 										<content:encoded><![CDATA[<p>ابتدا نرم افزار رو دانلود کنید سپس نصب کنید و بعد طبق اطلاعاتی که خریداری کرده اید اطلاعات رو وارد نرم افزار کنید</p>
-<h2 style="text-align: center;"><a href="https://sourceforge.net/projects/netmodhttp/files/latest/download">دانلود نت مود(لینک دانلود یک)</a></h2>
-<h3 style="text-align: center;"><a href="https://sourceforge.net/projects/netmodhttp/">دانلود نت مود(لینک دوم)</a></h3>
-<h3 style="text-align: center;"><a href="https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b4375/internet/NetMod_x86(Latest).exe">دانلود نت مود (لینک سوم )</a></h3>
-<p style="text-align: center;"><a href="https://accountstar.org/vpn/NetMod_x86(Latest).exe">لینک مستقیم از سایت ایرانی</a></p>
+<h2 style="text-align: center;"><a href="https://sourceforge.net/projects/netmodhttp/files/latest/download" target="_blank" rel="noopener">دانلود نت مود(لینک دانلود یک)</a></h2>
+<h3 style="text-align: center;"><a href="https://sourceforge.net/projects/netmodhttp/" target="_blank" rel="noopener">دانلود نت مود(لینک دوم)</a></h3>
+<h3 style="text-align: center;"><a href="https://files1.majorgeeks.com/10afebdbffcd4742c81a3cb0f6ce4092156b4375/internet/NetMod_x86(Latest).exe" target="_blank" rel="noopener">دانلود نت مود (لینک سوم )</a></h3>
+<p style="text-align: center;"><a href="https://accountstar.org/vpn/NetMod_x86(Latest).exe" target="_blank" rel="noopener">لینک مستقیم از سایت ایرانی</a></p>
 <p>یکی از سه لینک بالا را امتحان کنید و برنامه را دانلود کنید</p>
 <p><img fetchpriority="high" decoding="async" class="alignnone size-large wp-image-3275" src="/wp-content/uploads/2023/05/haman-1024x240.png" alt="" width="1020" height="239" srcset="/wp-content/uploads/2023/05/haman-1024x240.png 1024w, /wp-content/uploads/2023/05/haman-300x70.png 300w, /wp-content/uploads/2023/05/haman-768x180.png 768w, /wp-content/uploads/2023/05/haman.png 1280w" sizes="(max-width: 1020px) 100vw, 1020px" /></p>
 <p>و سپس طبق ویدیو زیر پیش بروید</p>
 <h2>
     <div>        
-    <video id="plyr66893b791b3b6" controls>
+    <video id="plyr66e31469d6881" controls>
        <source src="https://github.com/hamansite/hamansite.github.io/raw/main/app/video/netmod.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791b3b6 = new Plyr(document.getElementById('plyr66893b791b3b6'));
-        evplayerplyr66893b791b3b6.ratio = '16:9';
-        evplayerplyr66893b791b3b6.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791b3b6.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d6881 = new Plyr(document.getElementById('plyr66e31469d6881'));
+        evplayerplyr66e31469d6881.ratio = '16:9';
+        evplayerplyr66e31469d6881.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d6881.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script></h2>
 <p>اگر مشکلی داشتید حتما اسکرین شات تهیه کنید و برای پشتیبانی ارسال کنید</p>
 <p>اگر کانکت می شد ولی هیچ سایتی رو باز نمیکرد &gt; منوی سمت چپ را به سمت پایین اسکرول کنید تا علامت چرخ دنده را که برای تنظیمات هست مشاهده کنید سپس تیک گزینه <strong>Remove Default Gateway Route رو بزنین تا مشکلتون حل بشه.</strong></p>
@@ -124,8 +124,9 @@
 				<category><![CDATA[روش اتصال ssh]]></category>
 		<guid isPermaLink="false">https://ha-man2.com/?p=2752</guid>
 
-					<description><![CDATA[سلام به کاربران آيفونی  عزیز: تشکر از خرید شما ! ابتدا نرم افزار را از لینک های زیر دانلود کنید . سپس طبق ویدیو اموزشی یا طبق تصاویر پیش بروید. و اطلاعاتی که بعداز خرید در اختیار شما قرار گرفته شده است را وارد برنامه کنید.  برای اینکه سریع به وصل شوید و نیاز به [...]]]></description>
+					<description><![CDATA[سلام به کاربران آيفونی  عزیز: تشکر از خرید شما ! ابتدا نرم افزار را از لینک های زیر دانلود کنید . سپس طبق ویدیو اموزشی یا طبق تصاویر پیش بروید. و اطلاعاتی که بعداز خرید در اختیار شما قرار گرفته شده است را وارد برنامه کنید. این برنامه تبلیغات ۵ دقیقه اضافه کرده است! و [...]]]></description>
 										<content:encoded><![CDATA[<p class="has-vivid-red-color has-text-color has-medium-font-size"><b>سلام به کاربران آيفونی  عزیز: تشکر از خرید شما ! ابتدا نرم افزار را از لینک های زیر دانلود کنید . سپس طبق ویدیو اموزشی یا طبق تصاویر پیش بروید. و اطلاعاتی که بعداز خرید در اختیار شما قرار گرفته شده است را وارد برنامه کنید.</b></p>
+<h2 style="text-align: center;"><span style="color: #ff0000;"><strong>این برنامه تبلیغات ۵ دقیقه اضافه کرده است! و به مشکل میخورد ! لطفا دقت کافی رو به عمل بیاورید! و دیگر پیشنهاد نمی شود</strong></span></h2>
 <h3 class="box-downl" style="text-align: right;"> برای اینکه سریع به وصل شوید و نیاز به پشتیبانی نداشته باشید خواهشمندیم این صفحه را با دقت مطالعه کنید. این صفحه کامل توضیح داده شده است و با همین روش بالای ۵ هزار کاربر وصل شده اند. اگر شما وصل نشوید بهتر است صفحه را مجدد و ویدیو رو چند بار با دقت مشاهده کنید. اکثر کاربرانی که وصل نمی شوند به خاطر این است که عجله می کنند و اطلاعات را به صورت اشتباه و با بی دقتی وارد برنامه می کنند.چند نکته هم انتهای همین صفحه قیده شده است که میبایست مطالعه کنید.</h3>
 <p>بریم برای شروع و نصب</p>
 <p><strong>ابتدا نرم افزار NapsternetV را از لینک زیر دانلود و نصب کنید</strong></p>
@@ -139,14 +140,14 @@
 <p>&nbsp;</p>
 
     <div>        
-    <video id="plyr66893b791baf8" controls>
-       <source src="/wp-content/uploads/2023/04/4198804952259240473-1.mp4" type="video/mp4" />
+    <video id="plyr66e31469d704a" controls>
+       <source src="https://hamansite.github.io/wp-content/uploads/2023/04/4198804952259240473-1.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791baf8 = new Plyr(document.getElementById('plyr66893b791baf8'));
-        evplayerplyr66893b791baf8.ratio = '16:9';
-        evplayerplyr66893b791baf8.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791baf8.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d704a = new Plyr(document.getElementById('plyr66e31469d704a'));
+        evplayerplyr66e31469d704a.ratio = '16:9';
+        evplayerplyr66e31469d704a.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d704a.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -154,14 +155,14 @@
 <p>&nbsp;</p>
 
     <div>        
-    <video id="plyr66893b791bb10" controls>
-       <source src="https://ha-man2.site/am/IMG_1339.MOV" type="video/mp4" />
+    <video id="plyr66e31469d7061" controls>
+       <source src="https://hamansite.github.io/am/IMG_1339.MOV" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791bb10 = new Plyr(document.getElementById('plyr66893b791bb10'));
-        evplayerplyr66893b791bb10.ratio = '16:9';
-        evplayerplyr66893b791bb10.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791bb10.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d7061 = new Plyr(document.getElementById('plyr66e31469d7061'));
+        evplayerplyr66e31469d7061.ratio = '16:9';
+        evplayerplyr66e31469d7061.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d7061.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <h3 class="box-down2" style="text-align: right;">نکات مهم :<br />
 ۱ -چک کنید که remark فارسی وارد نشده باشد.<br />
@@ -180,8 +181,8 @@
 ]]></content:encoded>
 					
 		
-		<enclosure url="https://ha-man2.site/am/IMG_1339.MOV" length="13211299" type="video/quicktime" />
-<enclosure url="/wp-content/uploads/2023/04/4198804952259240473-1.mp4" length="3101960" type="video/mp4" />
+		<enclosure url="https://hamansite.github.io/wp-content/uploads/2023/04/4198804952259240473-1.mp4" length="3101960" type="video/mp4" />
+<enclosure url="https://hamansite.github.io/am/IMG_1339.MOV" length="5254" type="video/quicktime" />
 
 			</item>
 		<item>
@@ -200,22 +201,22 @@
 <p class="has-vivid-red-color has-text-color has-medium-font-size">3- اطلاعات اشتراک را حتما دستی تایپ کنید و کپی پیست نکنید</p>
 <p class="has-vivid-red-color has-text-color has-medium-font-size">4- دقت کنید هنگام تایپ آدرس Host بعد <strong>.</strong> ها هیچ فاصله ای (space) نباشد</p>
 <p class="has-black-color has-text-color has-small-font-size"><strong>ابتدا نرم افزار زیر را دانلود کنید و نصب کنید(اگر یک لینک دانلود کار نکرد از لینک های بعدی استفاده کنید )</strong></p>
-<p style="text-align: center;"><a href="https://sourceforge.net/projects/respite-vpn/">لینک دانلود یک </a></p>
-<p style="text-align: center;"><a href="https://sourceforge.net/projects/respite-vpn/files/latest/download">لینک دانلود دو</a></p>
-<p style="text-align: center;"><a href="https://www.uploadbag.com/files/adcc29e69207ac8aa1ca2eb04384d982/respite-v-p-n.exe.html">لینک دانلود سه</a></p>
+<p style="text-align: center;"><a href="https://sourceforge.net/projects/respite-vpn/" target="_blank" rel="noopener">لینک دانلود یک </a></p>
+<p style="text-align: center;"><a href="https://sourceforge.net/projects/respite-vpn/files/latest/download" target="_blank" rel="noopener">لینک دانلود دو</a></p>
+<p style="text-align: center;"><a href="https://www.uploadbag.com/files/adcc29e69207ac8aa1ca2eb04384d982/respite-v-p-n.exe.html" target="_blank" rel="noopener">لینک دانلود سه</a></p>
 <p>&nbsp;</p>
 <h2>ویدیو اموزشی</h2>
 <p>&nbsp;</p>
 <h2>
     <div>        
-    <video id="plyr66893b791cf50" controls>
+    <video id="plyr66e31469d85e8" controls>
        <source src="https://github.com/hamansite/hamansite.github.io/raw/main/app/video/rspnew4020430.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791cf50 = new Plyr(document.getElementById('plyr66893b791cf50'));
-        evplayerplyr66893b791cf50.ratio = '16:9';
-        evplayerplyr66893b791cf50.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791cf50.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d85e8 = new Plyr(document.getElementById('plyr66e31469d85e8'));
+        evplayerplyr66e31469d85e8.ratio = '16:9';
+        evplayerplyr66e31469d85e8.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d85e8.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script></h2>
 <h3 class="box-downl" style="text-align: right;"> اگر وصل نشدید :ابتدا همه سرور ها را امتحان کنید اگر باز اتصال برقرار نشد &gt; <strong> از صفحه اصلی برنامه اسکرین شات بگیرید.</strong> <span style="color: #ff0000;">+</span> روی دکمه ادمک کلیک کنید و از مشخصاتی ک وارد کرده اید اسکرین شات بگیرید    ( جمعا دو اسکرین شات بگیرید و برای پشتیبانی ارسال کنید)‌ &#8211; اسکرین شات خرید خود را نیز ارسال کنید . همچنین میتوانید از مروگر ماکروسافت ادیج بجای کروم یا فایر فاکس استفاده کنید.</h3>
 <p>&nbsp;</p>
@@ -246,8 +247,8 @@
 <h3 class="box-downl" style="text-align: right;"><span style="color: #ff0000;"><strong>اگر وصل نشدی نکات مهم پایین صفحه را با دقت بخوانید (زیر ویدیو )‌</strong></span></h3>
 <p>بریم برای شروع و نصب</p>
 <p><strong>ابتدا نرم افزار NapsternetV را از لینک زیر دانلود و نصب کنید</strong></p>
-<h3 style="text-align: center;"><a href="https://ha-man.space/base.apk">لینک دانلود مستقیم برنامه نپسرنت</a></h3>
-<p style="text-align: center;"><a href="https://ha-man.space/am/nap2.apk">لینک دانلود کمکی برای افرادی که مشکل نصب دارند</a></p>
+<h3 style="text-align: center;"><a href="https://ha-man.space/base.apk" target="_blank" rel="noopener">لینک دانلود مستقیم برنامه نپسرنت</a></h3>
+<p style="text-align: center;"><a href="https://ha-man.space/am/nap2.apk" target="_blank" rel="noopener">لینک دانلود کمکی برای افرادی که مشکل نصب دارند</a></p>
 <p>&nbsp;</p>
 <p>( اگر بعداز دانلود خطا در حین نصب نمایش داده شد &gt; از لینک های بعدی استفاده کنید )‌</p>
 <p style="text-align: center;"><a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=fa&amp;gl=US" target="_blank" rel="noreferrer noopener"><strong>لینک دانلود از گوگل پلی</strong></a></p>
@@ -257,14 +258,14 @@
 <p>نکته مهم : در بعضی از گوشی های اندروید (در بخش هاست یا همان ssh  هاست) ؛ زمانی که ادرس را تایپ می کنید کیبورد به صورت خودکار فاصله بین کلمات می اندازد. که شما باید آن را پاک کنید. در صورت داشته فاصله بین کلمات ادرس  ssh host    اتصال شما برقرار نمی شود.</p>
 <pre class="wp-block-preformatted">
     <div>        
-    <video id="plyr66893b791d983" controls>
+    <video id="plyr66e31469d901c" controls>
        <source src="https://ha-man.space//am/ham-naps-safrl.mp4" type="video/mp4" />
     </video>
     </div>    <script>
-        const evplayerplyr66893b791d983 = new Plyr(document.getElementById('plyr66893b791d983'));
-        evplayerplyr66893b791d983.ratio = '16:9';
-        evplayerplyr66893b791d983.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
-        evplayerplyr66893b791d983.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
+        const evplayerplyr66e31469d901c = new Plyr(document.getElementById('plyr66e31469d901c'));
+        evplayerplyr66e31469d901c.ratio = '16:9';
+        evplayerplyr66e31469d901c.iconUrl = '/wp-content/plugins/easy-video-player/lib/plyr.svg';
+        evplayerplyr66e31469d901c.blankVideo = '/wp-content/plugins/easy-video-player/lib/blank.mp4';  
     </script>
 <span style="font-size: 14.4px;">=</span><strong style="color: #ff0000; font-size: 20.16px; font-family: Tahoma, 'Times New Roman', 'Bitstream Charter', Times, serif;">اطلاعاتی که بعداز خرید به شما نمایش داده شده را باید در فیلد های زیر پر کنید .( دقیقا همان اطلاعات را )</strong>
 </pre>
@@ -307,32 +308,6 @@ ssh host برابر <strong>هاست ssh</strong> است &#8211; نام کارب
 		
 		<enclosure url="https://ha-man.space//am/ham-naps-safrl.mp4" length="11406980" type="video/mp4" />
 
-			</item>
-		<item>
-		<title>اتصال ssh با IOs</title>
-		<link>/ssh-ios/</link>
-		
-		<dc:creator><![CDATA[okarimi]]></dc:creator>
-		<pubDate>Fri, 17 Feb 2023 12:12:08 +0000</pubDate>
-				<category><![CDATA[روش اتصال ssh]]></category>
-		<guid isPermaLink="false">https://ha-man2.com/?p=1816</guid>
-
-					<description><![CDATA[سلام به شما کاربران عزیز برخی از کاربران در آیفون با نرم افزار فایر نمی توانند متصل شوند بنابر این راهنمای زیر برای شما می باشد پس تا انتها دنبال کنید. 1-برای اتصال با این روش می بایست با نرم افزار napsternetvرا از اپ استور دانلود کنید  دانلود نرم افزار napsternetv 2-بعداز دانلود &#60;&#60; از [...]]]></description>
-										<content:encoded><![CDATA[<p>سلام به شما کاربران عزیز</p>
-<p>برخی از کاربران در آیفون با نرم افزار فایر نمی توانند متصل شوند بنابر این راهنمای زیر برای شما می باشد پس تا انتها دنبال کنید.</p>
-<p>1-برای اتصال با این روش می بایست با نرم افزار napsternetvرا از اپ استور دانلود کنید</p>
-<p style="text-align: center;"><strong><a href="https://apps.apple.com/app/napsternetv/id1629465476"> دانلود نرم افزار napsternetv</a></strong></p>
-<p>2-بعداز دانلود &lt;&lt; از تب های پایین برنامه وارد گزینه Confing شوید .</p>
-<p>3-سپس از سمت راست بالا روی گزینه + بزنید و گزینه اول را انتخاب کنید و <strong>فایلی که برای شما در تلگرام ارسال کرده ایم و شما آن را ذخیره کرده اید</strong> را پیدا کنید و وارد برنامه کنید</p>
-<p><img loading="lazy" decoding="async" class="wp-image-1817 aligncenter" src="https://ha-man2.com/wp-content/uploads/2023/02/ssh-android-473x1024.jpg" alt="" width="338" height="732" /></p>
-<p>4- سپس روی آن کلیک کنید و  از تب <strong>Home</strong> روی دکمه آبی رنگ کلیک کنید تا فعال شود.</p>
-<p>موفق باشید</p>
-<p>&nbsp;</p>
-<p>ویدیو اموزشی</p>
-]]></content:encoded>
-					
-		
-		
 			</item>
 	</channel>
 </rss>
